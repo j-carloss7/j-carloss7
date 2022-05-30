@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j-carloss7
-- 👍  Meu email de contat é joao.barboza.araujo@escola.pr.gov.br
+- 👍  Meu email de contato é joao.barboza.araujo@escola.pr.gov.br
 - 👀  Eu estou interessad  em aprender a programar novas linguagens  
 - 🌱  Eu estou aprendend a programa recentemente a linguagem de JavaScript e Scratch                               
 
